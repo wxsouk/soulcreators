@@ -1,14 +1,8 @@
   {
-    author: "名字",
-    author_image: "/images/13.jpg",
-    commment: "众所周知，小程序是附近五公里的人都能看到，而现在微信又将附近的小程序升级为附近的商家，所以，更多的是精准流量。",
-    Commentator: "评论人",
-    commentan: "更多的是精准流量"
-  },
-  {
-    author: "第二个名字",
-    author_image: "/images/13.jpg",
-    commment: "小程序是附近五公里的人都能看到，而现在微信又将附近的小程序升级为附近的商家。",
-    Commentator: "评论人",
-    commentan: "更多的是精准流量"
+    boutique:"全部精品",
+    recommend:"全部推荐",
+    title:"这里是标题",
+    title1:"这里是标题1",
+    title2:"这里是标题2",
+    title3:"这里是标题3"
   }
